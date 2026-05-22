@@ -1,0 +1,5 @@
+litellm
+python-dotenv
+pypdf
+streamlit
+openai
